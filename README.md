@@ -71,7 +71,7 @@ h1 {
     display: block;
     min-width: 162px;
     /* padding-right: 30px; */
-    /* border-right: 2px solid #295C7B; */
+    /* border-right: 2px solid #1a0d00; */
     font-family: 'Roboto', sans-serif;
     font-size: 1.2em;
 }
